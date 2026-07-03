@@ -1,15 +1,30 @@
 # 📊 Sales Analytics End-to-End Project
 
+<div align="center">
+
 ## ApexPlanet Data Analytics Internship
 
-An end-to-end Sales Analytics project developed as part of the **ApexPlanet Data Analytics Internship**. This project demonstrates the complete analytics lifecycle, including data profiling, data cleaning, exploratory data analysis, business intelligence, dashboard development, and data storytelling.
+An end-to-end **Sales Analytics** project developed as part of the **ApexPlanet Data Analytics Internship**, demonstrating the complete data analytics lifecycle—from raw data profiling and cleaning to business intelligence, interactive dashboarding, and storytelling.
 
-### Internship Details
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?style=for-the-badge&logo=numpy)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange?style=for-the-badge&logo=mysql)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-success?style=for-the-badge&logo=github)
 
-* **Organization:** ApexPlanet Software Pvt. Ltd.
-* **Domain:** Data Analytics
-* **Internship ID:** APSPL2635005
-* **Internship Duration:** 21 May 2026 – 19 July 2026
+</div>
+
+---
+
+# 📌 Internship Details
+
+| Item | Details |
+|------|---------|
+| **Organization** | ApexPlanet Software Pvt. Ltd. |
+| **Domain** | Data Analytics |
+| **Internship ID** | APSPL2635005 |
+| **Duration** | 21 May 2026 – 19 July 2026 |
 
 ---
 
@@ -17,73 +32,99 @@ An end-to-end Sales Analytics project developed as part of the **ApexPlanet Data
 
 The objective of this project is to transform raw sales data into meaningful business insights through a structured analytics workflow.
 
-Key goals include:
+The project covers the complete analytics lifecycle:
 
-* Understanding and profiling raw data
-* Assessing and improving data quality
-* Cleaning and transforming datasets
-* Performing exploratory data analysis (EDA)
-* Generating business intelligence insights
-* Building interactive dashboards
-* Communicating insights through storytelling
+- Data Profiling
+- Data Quality Assessment
+- Data Cleaning & Transformation
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+- SQL Analytics
+- Interactive Dashboard Development
+- Business Storytelling
+- Portfolio Development
+
+---
+
+# 🔄 End-to-End Analytics Workflow
+
+```text
+Raw Sales Dataset
+        │
+        ▼
+Data Profiling & Quality Assessment
+        │
+        ▼
+Data Cleaning & Feature Engineering
+        │
+        ▼
+Exploratory Data Analysis (EDA)
+        │
+        ▼
+Business Intelligence & SQL Analysis
+        │
+        ▼
+Interactive Power BI Dashboard
+        │
+        ▼
+Business Storytelling
+        │
+        ▼
+Capstone Analytics Portfolio
+```
 
 ---
 
 # 🛠 Tech Stack
 
-## Programming & Analysis
+## Programming
 
-* Python
-* Pandas
-* NumPy
+- Python
+- Pandas
+- NumPy
 
 ## Data Visualization
 
-* Matplotlib
-* Seaborn
-* Power BI
+- Matplotlib
+- Seaborn
+- Power BI
 
 ## Database
 
-* SQL
+- MySQL
+- SQL
 
 ## Development Tools
 
-* Jupyter Notebook
-* Git
-* GitHub
+- Jupyter Notebook
+- Git
+- GitHub
 
 ---
 
 # 📂 Repository Structure
 
 ```text
-Sales-Analytics-End-to-End-Project
+Sales-Analytics-End-to-End-Project-ApexPlanet
+│
+├── Dataset
+│   └── ApexPlanet_DataAnalytics_Dataset.xlsx
+│
+├── Resources
+│   ├── Internship_Offer_Letter.pdf
+│   ├── 60_Days_Roadmap.pdf
+│   └── Project_Resources
 │
 ├── Task-1-Data-Immersion-Wrangling
-│   ├── data
-│   │   ├── raw
-│   │   └── processed
-│   │
-│   ├── notebooks
-│   │   ├── 01_data_profiling.ipynb
-│   │   └── 02_data_cleaning.ipynb
-│   │
-│   ├── reports
-│   │   ├── DataDictionary.xlsx
-│   │   └── data_quality_report.md
-│   │
-│   └── README.md
 │
 ├── Task-2-EDA-Business-Intelligence
 │
-├── Task-3-Interactive-Dashboarding
+├── Task-3-DeepDive-Dashboarding
 │
-├── Task-4-Data-Storytelling
+├── Task-4-Storytelling-Statistical-Validation
 │
 ├── Task-5-Capstone-Portfolio
-│
-├── ApexPlanet_DataAnalytics_Dataset.xlsx
 │
 └── README.md
 ```
@@ -92,154 +133,197 @@ Sales-Analytics-End-to-End-Project
 
 # 🚀 Internship Roadmap
 
-| Task   | Description                                       | Status        |
-| ------ | ------------------------------------------------- | ------------- |
-| Task 1 | Data Immersion & Wrangling                        | ✅ Completed   |
-| Task 2 | Exploratory Data Analysis & Business Intelligence | ⏳ In Progress |
-| Task 3 | Interactive Dashboard Development                 | ⏳ Upcoming    |
-| Task 4 | Data Storytelling & Statistical Validation        | ⏳ Upcoming    |
-| Task 5 | Capstone Portfolio Project                        | ⏳ Upcoming    |
+| Task | Description | Status |
+|------|-------------|:------:|
+| Task 1 | Data Immersion & Wrangling | ✅ Completed |
+| Task 2 | Exploratory Data Analysis & Business Intelligence | ✅ Completed |
+| Task 3 | Deep-Dive Analysis & Interactive Dashboarding | ✅ Completed |
+| Task 4 | Data Storytelling & Statistical Validation | ⏳ In Progress |
+| Task 5 | Capstone Portfolio Project | ⏳ Upcoming |
 
 ---
 
-# ✅ Task 1: Data Immersion & Wrangling
+# 📦 Project Deliverables
 
-## Objectives
+## ✅ Task 1 – Data Immersion & Wrangling
 
-* Understand dataset structure
-* Assess data quality
-* Identify missing values
-* Investigate duplicate records
-* Validate business metrics
-* Create derived features
-* Prepare an analysis-ready dataset
+### Deliverables
 
----
+- Data Dictionary
+- Dataset Profiling Notebook
+- Data Cleaning Notebook
+- Cleaned Dataset
+- Data Quality Report
 
-## Dataset Overview
+### Skills Applied
 
-| Metric     | Value               |
-| ---------- | ------------------- |
-| Records    | 1000                |
-| Columns    | 12                  |
-| Date Range | Jan 2025 – Jan 2026 |
-
-### Dataset Features
-
-* Customer Demographics
-* Product Purchases
-* Sales Transactions
-* Product Categories
-* Geographic Information
-* Revenue Generation
+- Data Profiling
+- Data Cleaning
+- Data Validation
+- Missing Value Treatment
+- Feature Engineering
+- Outlier Analysis
 
 ---
 
-## Data Quality Issues Identified
+## ✅ Task 2 – Exploratory Data Analysis & Business Intelligence
 
-| Issue                          | Count |
-| ------------------------------ | ----- |
-| Missing Age Values             | 20    |
-| Missing City Values            | 13    |
-| Duplicate Order_ID Occurrences | 8     |
-| Duplicate Rows                 | 0     |
+### Deliverables
 
-### Key Observation
+- Exploratory Data Analysis Notebook
+- Business Intelligence Notebook
+- SQL Business Queries
+- EDA Report
+- Business Insights Report
 
-A duplicate Order_ID (**ORD100050**) was found across multiple customers, products, and transaction dates. This issue was documented and retained to avoid loss of potentially valid transaction data.
+### Skills Applied
 
----
-
-## Data Cleaning Activities
-
-* Converted Order_Date to datetime format
-* Filled missing Age values using median imputation
-* Filled missing City values using mode imputation
-* Validated sales calculations
-* Created Age_Group feature
-* Performed outlier analysis
+- Exploratory Data Analysis
+- Business Intelligence
+- SQL Analytics
+- KPI Development
+- Data Visualization
+- Business Reporting
 
 ---
 
-## Feature Engineering
+## ✅ Task 3 – Deep-Dive Analysis & Interactive Dashboarding
 
-### Age_Group Segmentation
+### Deliverables
 
-| Age Range | Group      |
-| --------- | ---------- |
-| 0–30      | Young      |
-| 31–45     | Adult      |
-| 46–60     | Middle Age |
-| 60+       | Senior     |
+- Interactive Power BI Dashboard
+- Dashboard PDF
+- Dashboard Screenshots
+- Deep Dive Analysis Report
+- Dashboard Documentation
 
----
+### Skills Applied
 
-## Deliverables
-
-* ✅ Data Dictionary
-* ✅ Dataset Profiling Notebook
-* ✅ Data Cleaning Notebook
-* ✅ Cleaned Dataset
-* ✅ Data Quality Report
+- Power BI
+- Dashboard Design
+- Interactive Reporting
+- KPI Dashboard
+- Customer Analytics
+- Sales Analytics
 
 ---
 
-# 📈 Business Insights Potential
+# 📈 Executive KPIs
 
-This dataset can be used to analyze:
-
-* Customer demographics
-* Product performance
-* Sales trends
-* Revenue growth
-* Geographic performance
-* Customer segmentation
-* Category-wise sales analysis
-
----
-
-# 🎓 Skills Demonstrated
-
-### Data Analytics
-
-* Data Profiling
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Validation
-* Feature Engineering
-* Outlier Detection
-
-### Business Intelligence
-
-* Business Problem Solving
-* Data Storytelling
-* Reporting & Documentation
-* KPI Analysis
-
-### Technical Skills
-
-* Python
-* Pandas
-* NumPy
-* SQL
-* Power BI
-* Git & GitHub
+| KPI | Value |
+|------|-------:|
+| Total Revenue | ₹139.40 Million |
+| Total Orders | 992 |
+| Total Customers | 947 |
+| Total Quantity Sold | ~5K Units |
+| Average Order Value | ₹140.52K |
+| Revenue per Customer | ₹147.20K |
 
 ---
 
-# 📌 Project Highlights
+# 💡 Key Business Insights
 
-✔ End-to-End Analytics Workflow
+### Product Performance
 
-✔ Professional Documentation
+- Laptop generated the highest revenue.
+- Mobile closely followed Laptop.
+- Shoes generated the lowest revenue.
 
-✔ Business-Oriented Data Quality Assessment
+### Category Performance
 
-✔ Feature Engineering & Validation
+- Electronics emerged as the highest revenue-generating category.
+- Fashion generated the lowest revenue.
 
-✔ Analysis-Ready Dataset
+### Customer Insights
 
-✔ Portfolio-Ready Internship Project
+- Adult customers generated the highest revenue.
+- Revenue distribution between Male and Female customers remained balanced.
+
+### Regional Performance
+
+- Patna recorded the highest revenue.
+- Kolkata, Bengaluru, and Mumbai also performed strongly.
+
+### Sales Trend
+
+- Revenue peaked during March, June, October, and November.
+- Seasonal fluctuations indicate opportunities for targeted promotional campaigns.
+
+---
+
+# 📊 Dashboard Preview
+
+## Executive Overview
+
+> Add image after uploading screenshots
+
+```text
+Task-3-DeepDive-Dashboarding/dashboard/screenshots/executive_overview.png
+```
+
+---
+
+## Customer & Sales Deep Dive
+
+> Add image after uploading screenshots
+
+```text
+Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
+```
+
+---
+
+# 🎯 Skills Demonstrated
+
+## Data Analytics
+
+- Data Profiling
+- Data Cleaning
+- Feature Engineering
+- Exploratory Data Analysis
+- Data Validation
+- Business Intelligence
+- Dashboard Development
+- Business Storytelling
+
+---
+
+## Technical Skills
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- MySQL
+- Power BI
+- Git
+- GitHub
+
+---
+
+# 🏆 Project Highlights
+
+- ✅ End-to-End Analytics Workflow
+- ✅ Professional Documentation
+- ✅ Business Intelligence Reports
+- ✅ SQL Business Analysis
+- ✅ Interactive Power BI Dashboard
+- ✅ KPI Development
+- ✅ Customer Segmentation
+- ✅ Executive Reporting
+- ✅ Portfolio-Ready Internship Project
+
+---
+
+# 📅 Current Progress
+
+| Phase | Status |
+|-------|:------:|
+| Data Preparation | ✅ |
+| Business Analysis | ✅ |
+| Dashboard Development | ✅ |
+| Storytelling & Statistical Validation | 🔄 In Progress |
+| Final Capstone Portfolio | ⏳ Upcoming |
 
 ---
 
@@ -247,32 +331,30 @@ This dataset can be used to analyze:
 
 ## Durga Prasad Shetty
 
-B.Tech – Computer Science & Data Science
+**B.Tech – Computer Science & Data Science**
+
 CMR University, Bangalore
 
-### Connect With Me
+### 📬 Connect With Me
 
-🔗 LinkedIn
+💼 **LinkedIn**
+
 https://linkedin.com/in/durgaprasadshetty
 
-🌐 Portfolio
+🌐 **Portfolio**
+
 https://prasad-shetty-portfolio.vercel.app/
 
-💻 GitHub
+💻 **GitHub**
+
 https://github.com/shettyprasad-git
 
 ---
 
-# 📖 Project Status
+# ⭐ Support
 
-### Current Phase
-
-✅ Task 1 Completed
-
-### Next Phase
-
-📊 Exploratory Data Analysis & Business Intelligence (Task 2)
+If you found this project useful, consider giving the repository a **Star ⭐** on GitHub.
 
 ---
 
-**Turning raw data into actionable business insights through analytics, visualization, and storytelling.**
+> **Transforming raw data into actionable business insights through analytics, visualization, business intelligence, and storytelling.**
