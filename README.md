@@ -1,5 +1,3 @@
-<div align="center">
-        
 # Sales Analytics End-to-End Project
 
 <div align="center">
