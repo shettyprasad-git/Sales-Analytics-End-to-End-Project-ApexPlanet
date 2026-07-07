@@ -84,6 +84,14 @@ Capstone Analytics Portfolio
 - Pandas
 - NumPy
 
+## Statistical Analysis
+
+- SciPy
+- Pearson Correlation
+- Independent Sample T-Test
+- One-Way ANOVA
+- Confidence Interval Analysis
+
 ## Data Visualization
 
 - Matplotlib
@@ -138,8 +146,8 @@ Sales-Analytics-End-to-End-Project-ApexPlanet
 | Task 1 | Data Immersion & Wrangling | ✅ Completed |
 | Task 2 | Exploratory Data Analysis & Business Intelligence | ✅ Completed |
 | Task 3 | Deep-Dive Analysis & Interactive Dashboarding | ✅ Completed |
-| Task 4 | Data Storytelling & Statistical Validation | ⏳ In Progress |
-| Task 5 | Capstone Portfolio Project | ⏳ Upcoming |
+| Task 4 | Data Storytelling & Statistical Validation | ✅ Completed |
+| Task 5 | Capstone Portfolio Project | 🚀 In Progress |
 
 ---
 
@@ -208,6 +216,29 @@ Sales-Analytics-End-to-End-Project-ApexPlanet
 
 ---
 
+## ✅ Task 4 – Data Storytelling & Statistical Validation
+
+### Deliverables
+
+- Statistical Validation Notebook
+- Data Storytelling Notebook
+- Statistical Validation Report
+- Storytelling Report
+- Professional PowerPoint Presentation
+
+### Skills Applied
+
+- Statistical Analysis
+- Pearson Correlation
+- Independent Sample T-Test
+- One-Way ANOVA
+- Confidence Interval Analysis
+- Business Storytelling
+- Executive Reporting
+- Data-Driven Decision Making
+
+---
+
 # 📈 Executive KPIs
 
 | KPI | Value |
@@ -249,27 +280,30 @@ Sales-Analytics-End-to-End-Project-ApexPlanet
 - Revenue peaked during March, June, October, and November.
 - Seasonal fluctuations indicate opportunities for targeted promotional campaigns.
 
+### Statistical Insights
+
+- Quantity Sold and Total Sales show a strong positive correlation (r = 0.65).
+- No statistically significant spending difference exists between Male and Female customers.
+- Customer spending patterns remain consistent across all Age Groups.
+- The estimated mean Total Sales lies within the 95% confidence interval of ₹132K–₹146K.
+
 ---
 
 # 📊 Dashboard Preview
 
 ## Executive Overview
 
-> Add image after uploading screenshots
-
-```text
-Task-3-DeepDive-Dashboarding/dashboard/screenshots/executive_overview.png
-```
+<p align="center">
+  <img src="Task-3-DeepDive-Dashboarding/dashboard/screenshots/executive_overview.png" width="900">
+</p>
 
 ---
 
 ## Customer & Sales Deep Dive
 
-> Add image after uploading screenshots
-
-```text
-Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
-```
+<p align="center">
+  <img src="Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png" width="900">
+</p>
 
 ---
 
@@ -281,10 +315,22 @@ Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
 - Data Cleaning
 - Feature Engineering
 - Exploratory Data Analysis
-- Data Validation
+- Statistical Validation
 - Business Intelligence
 - Dashboard Development
-- Business Storytelling
+- Data Storytelling
+- KPI Development
+- Business Reporting
+
+---
+
+## Statistical Analysis
+
+- Pearson Correlation
+- Independent Sample T-Test
+- One-Way ANOVA
+- Confidence Interval Analysis
+- Outlier Detection
 
 ---
 
@@ -293,6 +339,7 @@ Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
 - Python
 - Pandas
 - NumPy
+- SciPy
 - SQL
 - MySQL
 - Power BI
@@ -303,14 +350,15 @@ Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
 
 # 🏆 Project Highlights
 
-- ✅ End-to-End Analytics Workflow
+- ✅ End-to-End Data Analytics Project
 - ✅ Professional Documentation
-- ✅ Business Intelligence Reports
-- ✅ SQL Business Analysis
+- ✅ Data Cleaning & Feature Engineering
+- ✅ Exploratory Data Analysis
+- ✅ SQL Business Intelligence
 - ✅ Interactive Power BI Dashboard
-- ✅ KPI Development
-- ✅ Customer Segmentation
-- ✅ Executive Reporting
+- ✅ Statistical Validation
+- ✅ Executive Storytelling
+- ✅ Professional Presentation
 - ✅ Portfolio-Ready Internship Project
 
 ---
@@ -322,9 +370,9 @@ Task-3-DeepDive-Dashboarding/dashboard/screenshots/customer_deep_dive.png
 | Data Preparation | ✅ |
 | Business Analysis | ✅ |
 | Dashboard Development | ✅ |
-| Storytelling & Statistical Validation | 🔄 In Progress |
-| Final Capstone Portfolio | ⏳ Upcoming |
-
+| Statistical Validation | ✅ |
+| Business Storytelling | ✅ |
+| Capstone Portfolio | 🚀 In Progress |
 ---
 
 # 👨‍💻 Author
@@ -357,4 +405,4 @@ If you found this project useful, consider giving the repository a **Star ⭐** 
 
 ---
 
-> **Transforming raw data into actionable business insights through analytics, visualization, business intelligence, and storytelling.**
+> **Turning raw data into strategic business decisions through analytics, statistical validation, interactive dashboards, and executive storytelling.**
