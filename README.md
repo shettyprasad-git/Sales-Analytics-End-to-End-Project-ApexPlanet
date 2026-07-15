@@ -123,8 +123,7 @@ Sales-Analytics-End-to-End-Project-ApexPlanet
 │
 ├── Resources
 │   ├── Internship_Offer_Letter.pdf
-│   ├── 60_Days_Roadmap.pdf
-│   └── Project_Resources
+│   └── 60_Days_Roadmap.pdf
 │
 ├── Task-1-Data-Immersion-Wrangling
 │
